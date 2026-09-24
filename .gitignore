@@ -1,0 +1,24 @@
+# Maven build artifacts
+**/target/
+target/
+*.class
+
+# Node / Frontend artifacts
+**/node_modules/
+node_modules/
+**/dist/
+dist/
+
+# Log files
+logs/
+*.log
+**/*-out.log
+**/*-err.log
+
+# IDE & OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+Desktop.ini
