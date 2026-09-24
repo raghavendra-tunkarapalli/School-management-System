@@ -13,7 +13,7 @@
     <artifactId>admin-enquiries-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>admin-enquiries-service</name>
-    <description>Admin Enquiries Microservice for School Management System</description>
+    <description>Admin Enquiries Microservice for Smart Attendance Management System</description>
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2023.0.1</spring-cloud.version>

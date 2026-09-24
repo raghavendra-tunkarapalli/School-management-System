@@ -12,7 +12,7 @@
 	<artifactId>staff-enquiry-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>staff-enquiry-service</name>
-	<description>Staff Enquiry Management Microservice for School Management System</description>
+	<description>Staff Enquiry Management Microservice for Smart Attendance Management System</description>
 
 	<properties>
 		<java.version>17</java.version>

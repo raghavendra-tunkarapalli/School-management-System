@@ -13,7 +13,7 @@
     <artifactId>student-portal-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>student-portal-service</name>
-    <description>Student Portal Microservice for School Management System</description>
+    <description>Student Portal Microservice for Smart Attendance Management System</description>
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2023.0.1</spring-cloud.version>

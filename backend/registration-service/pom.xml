@@ -13,7 +13,7 @@
     <artifactId>registration-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>registration-service</name>
-    <description>Registration and Authentication Microservice for School Management System</description>
+    <description>Registration and Authentication Microservice for Smart Attendance Management System</description>
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2023.0.1</spring-cloud.version>

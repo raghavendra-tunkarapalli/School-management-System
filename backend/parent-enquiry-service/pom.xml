@@ -13,7 +13,7 @@
     <artifactId>parent-enquiry-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>parent-enquiry-service</name>
-    <description>Parent Enquiry Microservice for School Management System</description>
+    <description>Parent Enquiry Microservice for Smart Attendance Management System</description>
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2023.0.1</spring-cloud.version>

@@ -13,7 +13,7 @@
     <artifactId>teacher-attendance-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>teacher-attendance-service</name>
-    <description>Teacher Attendance Microservice for School Management System</description>
+    <description>Teacher Attendance Microservice for Smart Attendance Management System</description>
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2023.0.1</spring-cloud.version>

@@ -12,7 +12,7 @@
     <artifactId>student-assignment-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>student-assignment-service</name>
-    <description>Student Assignment microservice for School Management System</description>
+    <description>Student Assignment microservice for Smart Attendance Management System</description>
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2023.0.1</spring-cloud.version>

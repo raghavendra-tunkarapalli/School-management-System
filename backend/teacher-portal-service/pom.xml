@@ -13,7 +13,7 @@
     <artifactId>teacher-portal-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>teacher-portal-service</name>
-    <description>Teacher Portal Microservice for School Management System</description>
+    <description>Teacher Portal Microservice for Smart Attendance Management System</description>
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2023.0.1</spring-cloud.version>
